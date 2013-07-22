@@ -1,37 +1,43 @@
-go for a hike
-play guitar
-play a video game
-write a song
-sing along with music, maybe in rock band
-read a book
-read comics
-go for a walk
-ride your bike
-go skiing
-watch Netflix
-play a game with a kid
-lie on the hammock
-build something in the shop
-hit the heavy bag
-create some synth tones
-program a guitar sound
-do a programming challenge
-get a back massage
-make a new drink
-contact a friend
-replace one clothing item with a new one
-go to the library
-go snowshoeing
-take the dogs for a walk
-listen to a podcast
-learn 3 phrases in an unfamiliar language
-take some photographs
-record a rhythm track for jamming
-jam over a rhythm track
-learn one technique on saxophone
-practice electronic drumming in rock band
-learn a bass technique
-do a piano lesson
-find a nice place to picnic
-cook a meal
-cook a dessert
+14;go for a hike
+15;play guitar
+15;play a video game
+15;write a song
+15;sing along with music, maybe in rock band
+15;read a book
+15;read comics
+14;go for a walk
+14;ride your bike
+1;go skiing
+15;watch Netflix
+15;play a game with one of your children
+4;lie on the hammock
+15;build something in the shop
+15;hit the heavy bag
+15;create some synth tones
+15;program a guitar sound
+15;do a programming challenge
+15;get a back massage
+15;make a new drink
+15;contact a friend
+15;replace one clothing item with a new one
+15;go to the library
+1;go snowshoeing
+14;take the dogs for a walk
+15;listen to a podcast
+15;learn 3 phrases in an unfamiliar language
+15;take some photographs
+15;record a rhythm track for jamming
+15;jam over a rhythm track
+15;learn one technique on saxophone
+15;practice electronic drumming in rock band
+15;learn a bass technique
+15;do a piano lesson
+6;find a nice place to picnic
+15;cook a meal
+15;cook a dessert
+15;come up with a business idea
+15;work on a short movie
+15;build a lego robot
+15;add to a vacation plan
+15;play your cahone
+15;do a fun Linda tutorial 
